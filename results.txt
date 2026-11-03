@@ -1,0 +1,12 @@
+Name: Rahul
+Total: 274
+Average: 91.33
+Grade: A+
+Name: Rohan
+Total: 213
+Average: 71.0
+Grade: B
+Name: Amit
+Total: 239
+Average: 79.67
+Grade: B
