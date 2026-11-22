@@ -3,7 +3,7 @@ class LibraryItem:
 		self.title = title
 		self.issued = False
 		
-	def display(Self):
+	def display(self):
 		print("Title:", self.title)
 		
 	def issue(self):
